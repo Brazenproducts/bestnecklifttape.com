@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bestnecklifttape.com/sitemap.xml
